@@ -1,0 +1,905 @@
+@media(max-width:1199px) {
+
+    .header__button {
+        width: 150px;
+        height: 45px;
+    }
+
+    .video_title {
+        font-size: 35px;
+    }
+
+    .video_description {
+        font-size: 20px;
+    }
+
+    .feedback_submit_button {
+        height: 45px;
+    }
+
+    .skills_measures {
+        padding: 75px 0;
+    }
+
+    .main_directions {
+        padding: 95px 0;
+    }
+
+    .quotes {
+        padding-top: 120px;
+        padding-bottom: 30px;
+    }
+
+    .quote_author {
+        margin-bottom: 75px;
+    }
+
+    .footer {
+        padding: 75px 0;
+    }
+
+    /* ================ about page ========= */
+
+    .about_me_image_container {
+        height: 410px;
+    }
+
+    .about_me_info {
+        padding-left: 45px;
+    }
+
+    .about_me_title {
+        font-size: 26px;
+        margin-bottom: 25px;
+    }
+
+    .about_me_signature {
+        margin-top: 20px;
+    }
+
+    .feedback_about {
+        padding: 75px 0
+    }
+
+    .about_feedback_titile {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+
+    .about_feedback_description {
+        margin-bottom: 30px;
+    }
+
+    /* ================ /about page ========= */
+
+    /* ================ /contact page ========= */
+    .main_contact {
+        padding: 80px 0;
+    }
+
+    .main_contact_content {
+        margin-bottom: 80px;
+    }
+
+    .main_contact_map {
+        height: 430px;
+    }
+
+    /* ================ /contact page ========= */
+
+    /* ================ /project page ========= */
+    .project_right_panel {
+        height: 530px;
+    }
+
+    .project_right_panel img {
+        width: auto;
+        height: 100%;
+    }
+
+    /* ================ /project page ========= */
+}
+
+@media(max-width: 991px) {
+
+    .nav_list_link {
+        margin-left: 20px;
+    }
+
+    .header__title {
+        font-size: 30px;
+    }
+
+    .header__description {
+        max-width: 380px;
+        font-size: 14px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .main_about {
+        padding-top: 75px;
+    }
+
+    .about_title {
+        margin-bottom: 30px;
+        font-size: 26px;
+    }
+
+    .direction:nth-of-type(-n+4) {
+        margin-bottom: 35px;
+    }
+
+    .about_description {
+        margin-bottom: 30px;
+    }
+
+    .main_about img {
+        width: 180px;
+        height: 90px;
+    }
+
+    .sp_title {
+        font-size: 25px;
+    }
+
+    .skills_measures {
+        padding: 60px 0;
+    }
+
+    .works_load {
+        padding: 30px 0;
+    }
+
+    .works_load p {
+        font-size: 18px;
+    }
+
+    .main_video {
+        padding: 60px 0;
+    }
+
+    .video_title {
+        font-size: 30px;
+    }
+
+    .video_description {
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+
+    .main_directions {
+        padding: 75px 0;
+    }
+
+    .directions_content {
+        justify-content: center;
+    }
+
+    .direction_title {
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    .direction_description {
+        font-size: 14px;
+    }
+
+    .quotes {
+        padding-top: 80px;
+        padding-bottom: 20px;
+    }
+
+    .quote_text {
+        font-size: 18px;
+    }
+
+    .quote_author {
+        margin-top: 20px;
+    }
+
+    .partners_content {
+        padding: 50px 0;
+    }
+
+    .feedback_title {
+        font-size: 26px;
+        margin-bottom: 25px;
+    }
+
+    .feedback_description {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+
+    .field {
+        height: 40px;
+        margin-bottom: 20px;
+    }
+
+    .feedback_comment {
+        height: 130px;
+        font-size: 14px;
+    }
+
+    .main_feedback {
+        padding-bottom: 65px;
+    }
+
+    .footer_company_name {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .footer_contacts {
+        text-align: center;
+    }
+
+    .footer_contacts_email,
+    .footer_contacts_phone,
+    .footer_nav_link {
+        font-size: 13px;
+    }
+
+    .footer_company_rights,
+    .footer_company_designer {
+        font-size: 13px;
+    }
+
+    .footer {
+        padding: 50px 0;
+    }
+
+    /* ================= page_about =============== */
+
+    .about_skills_measures {
+        padding: 50px 0;
+    }
+
+    .about_me_img {
+        height: 100%;
+        width: auto;
+    }
+
+    .about_me_info {
+        padding-left: 30px;
+    }
+
+    .about_me_title {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .about_me_description:nth-of-type(n) {
+        margin-bottom: 20px;
+    }
+
+    .feedback_about {
+        padding: 50px 0;
+    }
+
+    .feedback_submit_button {
+        margin-bottom: 0;
+    }
+
+    .about_feedback_titile {
+        font-size: 24px;
+    }
+
+    /* ================= /page_about =============== */
+
+    /* ================= page_contact =============== */
+    .main_contact {
+        padding: 50px 0;
+    }
+
+    .main_contact_content {
+        margin-bottom: 50px;
+    }
+
+    .contact_info_title {
+        font-size: 26px;
+        margin-bottom: 16px;
+    }
+
+    .contact_info_description {
+        margin-bottom: 25px;
+        text-align: justify;
+    }
+
+    .contact_info_param {
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+
+    .main_contact_map {
+        height: 350px;
+    }
+
+    /* ================= /page_contact =============== */
+
+    /* ================= page_project =============== */
+    .project_title {
+        font-size: 28px;
+        margin-bottom: 25px;
+    }
+
+    .project_description {
+        text-align: justify;
+    }
+
+    .project_description:first-of-type {
+        margin-bottom: 15px;
+    }
+
+    .project_info {
+        margin-top: 20px;
+    }
+
+    .project_right_panel {
+        height: 480px;
+    }
+
+    .project_control_panel_content {
+        height: 80px;
+    }
+
+    .project_control_panel .carousel-control-next.project-control-arrow,
+    .project_control_panel .carousel-control-prev.project-control-arrow {
+        width: 100px;
+    }
+
+    /* ================= /page_project =============== */
+
+}
+
+@media(max-width: 767px) {
+
+    .header_logo {
+        width: 45px;
+        height: 45px;
+    }
+
+    .navbar_icon {
+        font-size: 24px;
+    }
+
+    .header__title {
+        font-size: 24px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .header__description {
+        font-size: 12px;
+        line-height: 18px;
+        max-width: 330px;
+        width: 100%;
+        text-align: center;
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+
+    .header__content {
+        align-items: center;
+    }
+
+    .header__button {
+        width: 120px;
+        height: 40px;
+    }
+
+    .about_title {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .about_description {
+        max-width: 380px;
+        font-size: 12px;
+        line-height: 18px;
+        margin-bottom: 20px;
+    }
+
+    .main_about img {
+        width: 120px;
+        height: 60px;
+    }
+
+    .main_about {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    .sp_item {
+        margin: 25px 15px 0;
+    }
+
+    .sp_title {
+        font-size: 20px;
+    }
+
+    .sm_item img {
+        width: 32px;
+        height: 32px;
+    }
+
+    .sm_item_digits {
+        margin-bottom: 6px;
+        font-size: 16px;
+    }
+
+    .sm_item_text {
+        line-height: 18px;
+    }
+
+    .skills_measures {
+        padding: 35px 0;
+    }
+
+    .works_load {
+        padding: 18px 0;
+    }
+
+    .works_load p {
+        font-size: 14px;
+    }
+
+    .video_title {
+        font-size: 24px;
+        margin-bottom: 0px;
+    }
+
+    .video_description {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+
+    .main_video {
+        padding: 30px 0;
+    }
+
+    .main_directions {
+        padding: 45px 0;
+    }
+
+    .direction {
+        margin-bottom: 30px;
+    }
+
+    .direction:nth-last-of-type(-n+2) {
+        margin-bottom: 0;
+    }
+
+    .directions_content {
+        justify-content: space-evenly;
+    }
+
+    .quotes {
+        padding-top: 35px;
+        padding-bottom: 0px;
+    }
+
+    .quote_text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .quote_author {
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 12px;
+    }
+
+    .partners_content {
+        padding: 30px 0;
+    }
+
+    .feedback_title {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .feedback_description {
+        margin-bottom: 20px;
+    }
+
+    .main_feedback {
+        padding-bottom: 35px;
+    }
+
+    .footer_content {
+        justify-content: center;
+    }
+
+    .footer_name_containter {
+        min-width: 260px;
+    }
+
+    .footer_nav {
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+
+    .footer {
+        padding: 30px 0;
+    }
+
+    .home_square {
+        width: calc(100% / 3);
+    }
+
+    .home_square:nth-last-of-type(3n+2) .home_square_hover {
+        top: -100%;
+        left: 0;
+    }
+
+    .home_square:nth-of-type(3n+1) .home_square_hover {
+        top: 0;
+        left: -100%;
+    }
+
+    .home_square:nth-of-type(3n) .home_square_hover {
+        top: 0;
+        left: 100%;
+    }
+
+    .home_square:nth-of-type(1) .home_square_hover {
+        top: -100%;
+        left: -100%;
+    }
+
+    .home_square:nth-of-type(2) .home_square_hover {
+        top: -100%;
+        left: 0%;
+    }
+
+    .home_square:nth-of-type(3) .home_square_hover {
+        top: -100%;
+        left: 100%;
+    }
+
+    .home_square:nth-last-of-type(3) .home_square_hover {
+        top: 100%;
+        left: -100%;
+    }
+
+    .home_square:nth-last-of-type(2) .home_square_hover {
+        top: 100%;
+        left: 0;
+    }
+
+    .home_square:nth-last-of-type(1) .home_square_hover {
+        top: 100%;
+        left: 100%;
+    }
+
+    .home_square:hover .home_square_hover {
+        left: 0;
+        top: 0;
+    }
+
+    /* ================= page_about =============== */
+    .about_me_info {
+        padding-left: 15px;
+    }
+
+    .about_me_title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .about_me_description:nth-last-of-type(n) {
+        margin-bottom: 10px;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    .about_me_image_container {
+        height: 320px;
+    }
+
+    .about_me_signature {
+        margin-top: 10px;
+    }
+
+    .feedback_about {
+        padding: 35px 0;
+    }
+
+    .about_feedback_titile {
+        font-size: 20px;
+    }
+
+    /* ================= /page_about =============== */
+
+    /* ================= page_contact =============== */
+    .contact_info_title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .contact_info_description {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .contact_info_param {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .main_contact {
+        padding: 30px 0;
+    }
+
+    .main_contact_content {
+        margin-bottom: 30px;
+    }
+
+    .main_contact_map {
+        height: 280px;
+    }
+
+    .contact_feedback_button {
+        width: 110px;
+        height: 35px;
+    }
+
+    .contact_feeedback_submit_button_span {
+        display: none;
+    }
+
+    /* ================= /page_contact =============== */
+    /* ================= page_about =============== */
+    .project_left_panel {
+        padding-top: 20px;
+    }
+
+    .project_title {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+
+    .project_description {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .project_description:first-of-type {
+        margin-bottom: 5px;
+    }
+
+    .project_info {
+        margin-top: 10px;
+    }
+
+    .project_info_param {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .project_right_panel {
+        height: 380px;
+    }
+
+    .project_control_panel_content {
+        height: 60px;
+    }
+
+    .project-control-arrow p {
+        font-size: 10px;
+        width: 60px;
+    }
+
+    .fa-angle-right.project-control-arrow-icon {
+        margin-left: 10px;
+    }
+
+    .fa-angle-left.project-control-arrow-icon {
+        margin-right: 10px;
+    }
+
+
+    /* ================= page_about =============== */
+
+}
+
+@media(max-width: 700px) {
+
+    .sp_pic {
+        width: auto;
+        height: 100%;
+    }
+
+    .sp_right_panel {
+        height: 292px;
+    }
+
+}
+
+@media(max-width: 575px) {
+
+    .sp_right_panel {
+        overflow: hidden;
+    }
+
+    .sp_pic {
+        position: absolute;
+        left: calc(50% - 175px);
+    }
+
+    .partner img {
+        width: 65%;
+    }
+
+    .partner:nth-of-type(-n+2) {
+        margin-bottom: 30px;
+    }
+
+    .footer_nav {
+        justify-content: center;
+    }
+
+    .home_square {
+        width: 50%;
+    }
+
+    .home_square:nth-of-type(odd) .home_square_hover {
+        top: 0;
+        left: -100%;
+    }
+
+    .home_square:nth-of-type(even) .home_square_hover {
+        top: 0;
+        left: 100%;
+    }
+
+    .home_square:nth-of-type(1) .home_square_hover {
+        top: -100%;
+        left: -100%;
+    }
+
+    .home_square:nth-of-type(2) .home_square_hover {
+        top: -100%;
+        left: 100%;
+    }
+
+    .home_square:nth-last-of-type(2) .home_square_hover {
+        top: 100%;
+        left: -100%;
+    }
+
+    .home_square:nth-last-of-type(1) .home_square_hover {
+        top: 100%;
+        left: 100%;
+    }
+
+    .home_square:hover .home_square_hover {
+        left: 0;
+        top: 0;
+    }
+
+    /* ================= page_about =============== */
+    .about_me_title {
+        font-size: 18px;
+    }
+
+    .about_me_image_container {
+        overflow: hidden;
+    }
+
+    .about_me_img {
+        right: calc(50% - 180px);
+    }
+
+    .about_feedback_titile {
+        font-size: 18px;
+    }
+
+    .about_me_info {
+        padding: 15px
+    }
+
+    .about_me_signature {
+        width: 80%;
+    }
+
+    .feedback_about {
+        padding: 25px 0;
+    }
+
+    .about_feedback_titile {
+        margin-bottom: 10px;
+    }
+
+    .about_feedback_description {
+        margin-bottom: 15px;
+    }
+
+    .feedback_about_content .about_feedback_submit {
+        width: 170px;
+    }
+
+    /* ================= /page_about =============== */
+
+    /* ================= page_contact =============== */
+    .main_contact_content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contact_feedback {
+        margin-top: 20px;
+    }
+
+    .contact_feedback_content {
+        margin: 0;
+    }
+
+    .contact_feedback_sumbit {
+        margin: 0 auto;
+    }
+
+    .main_contact_map {
+        height: 240px;
+    }
+
+    /* ================= /page_contact =============== */
+
+    /* ================= page_project =============== */
+    .project_pages_content {
+        flex-direction: column-reverse;
+    }
+
+    .project_left_panel {
+        padding: 15px;
+    }
+
+    .project_title{
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .project_info{
+        margin-top: 0;
+    }
+
+    .project_right_panel {
+        padding: 0;
+        height: 200px;
+        overflow: hidden;
+    }
+
+    .project_right_panel img {
+        height: auto;
+        width: 100%;
+    }
+
+    .project_control_panel_content {
+        height: 40px;
+    }
+
+    .project-control-arrow p {
+        line-height: 12px;
+    }
+
+    /* ================= /page_project =============== */
+}
+
+@media(max-width: 519px) {
+    .footer_name_containter {
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width: 460px) {
+
+    .feedback_submit_button_span {
+        display: none;
+    }
+}
